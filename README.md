@@ -26,13 +26,13 @@
   
   <!-- Animated Social Links -->
   <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/syed-saqueeb085/">
+    <a href="https://www.linkedin.com/in/shaikh-fasiuddin-324524341/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" style="animation: pulse 2s infinite;">
     </a>
-    <a href="https://github.com/SYED-SAQUEEB">
+    <a href="https://github.com/Fasishaikh75">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" style="animation: pulse 2s infinite; animation-delay: 0.5s;">
     </a>
-    <a href="mailto:syedsaqueeb085@gmail.com">
+    <a href="mailto:shaikhfasiuddin02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email" style="animation: pulse 2s infinite; animation-delay: 1s;">
     </a>
   </div>
