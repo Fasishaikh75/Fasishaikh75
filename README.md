@@ -13,7 +13,7 @@
       </linearGradient>
     </defs>
     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Fira Code, monospace" font-size="26" fill="url(#gradient)">
-      Hi 👋 I'm Syed Saqueeb
+      Hi 👋 I'm Shaikh Fasiuddin
     </text>
   </svg>
   
