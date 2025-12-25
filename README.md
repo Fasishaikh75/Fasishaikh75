@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
   <!-- Animated Welcome Section -->
   <svg width="500" height="100" viewBox="0 0 500 100">
     <defs>
@@ -16,14 +16,14 @@
       Hi 👋 I'm Shaikh Fasiuddin
     </text>
   </svg>
- 
+  
   <!-- Animated Typing Effect -->
   <div style="margin-top: -20px;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
     </a>
   </div>
- 
+  
   <!-- Animated Social Links -->
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/shaikh-fasiuddin-324524341/">
@@ -37,7 +37,9 @@
     </a>
   </div>
 </div>
+
 <br>
+
 <!-- Animated Divider -->
 <div align="center">
   <svg width="100%" height="20">
@@ -46,85 +48,114 @@
     </line>
   </svg>
 </div>
+
 <br>
+
 ## 🚀 Technical Expertise
+
 <!-- Animated Tech Stack -->
 <div align="center">
-**Frontend:**
+
+**Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
-**Tools & Platforms:**
+
+**Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
+
 </div>
+
 <br>
+
 ## 💼 Featured Projects
+
 <!-- Project Cards with Animation -->
 <div align="center">
+
 ### 🏥 Genuine Hospital Website
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://genuinehospital.netlify.app/)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
+
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
 • <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
 • <strong>Features:</strong> Responsive Design, Mobile-Friendly UI, Optimized Layouts, Smooth Interactions
 </div>
+
 ### 🏠 Almannan Decor Website
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://almannandecor.netlify.app/)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
+
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
 • <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
 • <strong>Features:</strong> Fully Responsive, User-Friendly Interface, Semantic HTML, Dynamic Features
 </div>
+
 ### 🎓 AIT Academy Website
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://aitaurangabad.com/)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
+
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
 • <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
 • <strong>Features:</strong> Live Project, Fully Responsive, Interactive Interface, Modern Web Standards
 </div>
+
 ### 🌸 A Perfume Website
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://aperfume.netlify.app/)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
+
 <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
 • <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
 • <strong>Features:</strong> Elegant Design, Brand-Aligned Interface, Responsive Layout, Under Development
 </div>
+
 </div>
+
 <br>
+
 ## 📈 GitHub Stats
+
 <!-- Animated GitHub Stats -->
 <div align="center">
- 
+  
   <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SYED-SAQUEEB&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; animation: fadeIn 2s;" />
- 
+  
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYED-SAQUEEB&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px; animation: fadeIn 2s; animation-delay: 0.5s;" />
- 
+  
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SYED-SAQUEEB&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; animation: fadeIn 2s; animation-delay: 1s;" />
+
 </div>
+
 <br>
+
 ## 🎯 Currently Learning & Future Goals
+
 <!-- Animated Learning Section -->
 <div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
+
 </div>
+
 <br>
+
 <!-- Animated Footer -->
 <div align="center">
- 
+  
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=SYED-SAQUEEB&label=Profile%20Views&color=0e75b6&style=flat" alt="syedsaqueeb" />
- 
+  
   <!-- Animated SVG Footer -->
   <svg width="100%" height="50" viewBox="0 0 500 50">
     <defs>
@@ -141,7 +172,9 @@
       Thanks for visiting! Let's connect and build something amazing together.
     </text>
   </svg>
+
 </div>
+
 <!-- CSS Animations -->
 <style>
   @keyframes pulse {
@@ -149,17 +182,17 @@
     50% { transform: scale(1.05); }
     100% { transform: scale(1); }
   }
- 
+  
   @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
   }
- 
+  
   /* Hover effects for project cards */
   div[style*="background: linear-gradient"] {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
- 
+  
   div[style*="background: linear-gradient"]:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
